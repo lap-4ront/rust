@@ -3,3 +3,4 @@
 ## Content:
 
 * [type-stride-alignment](type-stride-alignment)
+* [guessing_game](guessing_game)
